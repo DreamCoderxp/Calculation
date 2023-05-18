@@ -19,7 +19,8 @@ public class Calculation {
     public static void main(String[] args) {
         // TODO code application logic here
         int x=5;
-        int y=10;
+        int y=15;
+        
         int result= x+y;
         System.out.println(result);
         System.out.println(x *y);
