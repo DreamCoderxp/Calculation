@@ -22,6 +22,7 @@ public class Calculation {
         int y=10;
         int result= x+y;
         System.out.println(result);
+        System.out.println(x *y);
         
         
     }
